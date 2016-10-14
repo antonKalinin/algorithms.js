@@ -1,0 +1,19 @@
+{
+    "extends": "airbnb",
+    "rules": {
+        "indent": ["error", 4],
+        "no-console": 0,
+        "object-curly-spacing": ["error", "never"],
+    },
+    "root": true,
+    "plugins": [
+    ],
+    "settings": {
+    },
+    "parser": "babel-eslint",
+    "parserOptions": {
+        "ecmaFeatures": {
+            "experimentalObjectRestSpread": true
+        }
+    }
+}
