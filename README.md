@@ -1,2 +1,4 @@
 # algorithms.js
-JavaScript algorythms
+* Array2D
+* Dijkstra
+* PIDController
